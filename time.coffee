@@ -1,4 +1,4 @@
-command: "date +\"%H:%M:%S\""
+command: "date +\"%I:%M %p\""
 
 refreshFrequency: 1000 # ms
 

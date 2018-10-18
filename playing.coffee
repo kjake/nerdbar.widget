@@ -1,4 +1,4 @@
-command: 'echo $(cat $HOME/.config/song.txt)'
+command: 'osascript ~/.config/scripts/current_song.scpt'
 refreshFrequency: 1000 # ms
 
 render: (output) ->
